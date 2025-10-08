@@ -84,9 +84,9 @@ After ~10 seconds, it automatically resets for the next click.
 
 # 🗂️ Project Structure
 drone-delivery-animation/
-├── index.html        # Main HTML file      |containing the SVG and structure
-├── style.css         # Contains all animations, transitions, and styling
-└── script.js         # Handles click events and timing control
+├── index.html        # Main HTML file containing the SVG and structure\
+├── style.css         # Contains all animations, transitions, and styling\
+└── script.js         # Handles click events and timing control\
 
 
 # ⚡ How It Works
